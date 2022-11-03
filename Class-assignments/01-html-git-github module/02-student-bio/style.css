@@ -1,0 +1,9 @@
+body {
+  background-color: #1f2c36;
+  color: #fff;
+  font-family: "Montserrat", sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 40;
+}
